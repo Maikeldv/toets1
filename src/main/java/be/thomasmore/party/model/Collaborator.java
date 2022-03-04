@@ -15,6 +15,7 @@ public class Collaborator {
     private int salary;
     private boolean active;
 
+
     public Collaborator() {
     }
 
