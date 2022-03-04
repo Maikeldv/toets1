@@ -24,6 +24,7 @@ public class Collaborator {
         this.role = role;
         this.salary = salary;
         this.active = active;
+
     }
 
     public String getFirstName() {
